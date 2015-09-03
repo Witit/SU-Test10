@@ -21,7 +21,7 @@
 - 13550171 Yhow Poi Poi POi << https://github.com/xenoxros/HomeWork
 - 13550145 KhumKhim ngai ga kai la <<https://github.com/khim1569/Homework01
 - four4<<https://github.com/apiwich4444/apiwich4444
-- Danny <<https://github.com/danducheine/Danny
+- 13550139 Danny <<https://github.com/danducheine/Danny
 - Tault (https://github.com/republic07/Test)
 - pak << https://github.com/pak007/Test_Unity
 - 13550647 joamonys <<https://github.com/joamonys/artesting
