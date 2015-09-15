@@ -9,7 +9,7 @@
 - 13550262 chaba << https://github.com/arkomchabaza/Chaba13550262
 - 13550128 Arm << https://github.com/exsodiaman/HomeWork
 - 13550143 mawnam << https://github.com/cazycaty/Thanon.git
-- 13550088 [[edit]] Added by rzkpure << https://github.com/rzkpure/newtest
+- 13550088 [[edit]] Added by rzkpure << https://github.com/rzkpure/newtest || https://github.com/rzkpure/week02
 - 13550214 Drelar << https://github.com/naivebong/13550214_Warayut
 - Sun << https://github.com/sunny1302/Thesis-BP
 - 13550176 Alone Always << https://github.com/piya6185/13550176homework01
