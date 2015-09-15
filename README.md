@@ -18,7 +18,7 @@
 - Lis1en << https://github.com/Lis1en/https-github.com-Lis1en-unityTest
 - 13550166 Daow << https://github.com/daonatta/homework_001
 - 13550171 Yhow Poi Poi POi << https://github.com/xenoxros/HomeWork
-- 13550145 KhumKhim ngai ga kai la <<https://github.com/khim1569/Homework01
+- 13550145 KhumKhim ngai ga kai la <<https://github.com/khim1569/Homework02
 - 13550258 four4<<https://github.com/apiwich4444/apiwich4444
 - 13550139 Danny <<https://github.com/danducheine/Danny
 - 13550133 Tault (https://github.com/republic07/Test) Asyn(https://github.com/republic07/BackStage)
